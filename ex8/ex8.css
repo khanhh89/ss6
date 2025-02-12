@@ -1,0 +1,39 @@
+h2 {
+    font-size: 30px;
+    font-family: "Tinos", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #131313;
+}
+
+.duongke {
+    border-top: 5px dashed #8C8C8C;
+    width: 100%;
+}
+
+.trangtin{
+    margin: 20px;
+
+}
+
+.baibao{
+    border-radius: 10px;
+}
+
+.time{
+    color: #C4C0D0;
+}
+
+.bao1{
+    vertical-align: top;
+}
+
+.thongtin{
+    color: #483D6E;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.phancach{
+    border-left: 5px #6e6969 solid;
+}
