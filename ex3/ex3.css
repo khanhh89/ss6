@@ -1,0 +1,62 @@
+#check {
+    background-color: rgb(49, 49, 49);
+    color: white;
+}
+
+.button {
+    text-decoration: none; /* Xóa gạch chân */
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(49, 49, 49);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.button {
+    float: right;
+}
+
+.style-ly {
+    border-radius: 50%;
+    border: rgb(49, 49, 49) 5px solid;
+}
+
+#intell {
+    background-color: rgb(231, 231, 231);
+    width: 100%;
+}
+
+.h3 {
+    color: black;
+    font-size: 20px;
+}
+
+h3 {
+    padding: 20px;
+    font-size: 20px;
+}
+
+div {
+    text-align: center;
+}
+
+.basic {
+    background-color: rgb(233, 233, 233);
+}
+
+.intel {
+    text-decoration: none; /* Xóa gạch chân */
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(49, 49, 49);
+    color: white;
+    width: 320px;
+    height: 20px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 5px;
+}

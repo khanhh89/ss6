@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #007bff;
+    color: white;
+    padding: 20px 0;
+}
+
+.home {
+    margin: 0 15px;
+}
+
+.about {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.profile {
+    margin: 50px auto;
+    margin: auto;
+}
+
+.profile img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid #007bff;
+    margin: auto;
+}
+
+footer {
+    background-color: rgb(189, 183, 183);
+    padding: 10px;
+    margin-top: 50px;
+}
